@@ -1,0 +1,35 @@
+.container{
+    max-width: 400px;
+    background-color: var(--corSecundaria);
+    border: 2px solid black;
+    border-top: none;
+}
+
+.imc{
+    margin: 0 auto 20px auto;
+    padding-top: 10px;
+    max-width: 400px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+table{
+    max-width: 400px;
+    margin: 0 auto 10px;
+    border-spacing: 0px;
+}
+
+th{
+    border-bottom: 1px solid black;
+}
+
+th, td{
+    text-align: center;
+    padding: 5px 15px;
+}
+
+.selected{
+    background-color: var(--corDemarcacao);
+    font-weight: bold;
+}

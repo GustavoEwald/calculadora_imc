@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root{
+    --corPrincipal: #c0d5f1;
+    --corSecundaria: #c0d5f1a6;
+    --corBtn: #1f5eaf;
+    --corTxtBtn: #fff;
+    --corTxtPrincipal: #000;
+    --corTxtDestaque: #0552b8;
+    --corDemarcacao: rgb(226, 160, 160);
+}
